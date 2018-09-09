@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 1px;
+    text-align: left;    
+}
+th	{
+	width:100%;
+    }
+img{
+	size : height: 500px;
+    width: 500px;
+    }
+body{
+	background-color: #D3D3D3;
+}
