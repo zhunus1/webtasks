@@ -1,0 +1,105 @@
+a{
+	font-family: Arial;
+	color:white;
+	text-decoration:none;
+	background-color: green;
+	border:1px solid red;
+	border-radius: 5px 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+h1{ color:green;
+}
+.list{
+	border:2px solid red;
+	border-radius: 6px 6px;
+	width: 800px;
+}
+
+#pann{color:red;
+		text-decoration:none;
+	background-color: white;
+	border:none;
+	font-size: 25px;
+
+}
+.person{
+	color:red;
+	font-family: Arial;
+}
+a#pan{color:blue;
+	text-decoration:none;
+	background-color: white;
+	border:none;
+	font-size: 25px;
+}
+
+
+
+.item{border:2px solid red;
+		margin:40px;
+		border-radius: 6px 6px;
+		width:800px;
+		height:100px;
+
+}
+.item1{border:2px solid red;
+		margin:40px;
+		border-radius: 6px 6px;
+		width:800px;
+		height:100px;
+		background-color: yellow;
+}
+.menu1{margin:40px;
+		width:800px;
+
+
+}
+img{width:120px;
+	height: 80px;
+	float:left;margin-right:10px;
+	padding: 10px 0 0 10px;
+	
+
+
+}
+.main_body{padding: 25px 0 0 10px;
+			text-align:left;
+			
+			
+}
+.title a{color:blue;
+		font-size: 20px;
+		text-decoration:underline;
+	background-color: white;
+	border:none;
+
+}
+.title a#cay{color:blue;
+		font-size: 20px;
+		text-decoration:underline;
+	background-color: yellow;
+	border:none;
+
+}
+.description{font-size: 20px;
+
+
+}
+.attributes{font-family: Arial;
+
+}
+
+
+span.text_for{font-weight: bold;
+
+}
+span.city{font-weight: bold;
+
+}
+span.price{background-color: pink;
+			border-radius: 5px 5px;
+			color:green;
+			font-size: 20px;
+
+}
