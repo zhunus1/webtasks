@@ -1,0 +1,102 @@
+body{
+	 display:flex;
+     align-items: center;
+	 flex-direction: column;
+	 justify-content: center;
+	 background-color: white;
+	 margin: 0 auto;
+	 width: 700px;
+}
+
+.alert{
+	border:5px solid red;
+	border-radius: 5px;
+	background-color: white;
+	width: 400px;
+	height: 220px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	position: absolute;
+	right:100px;
+	left:100px;
+	bottom:100px;
+	top:100px;
+	
+
+	
+}
+.overlay{
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0,0,0,0.5);
+	position: fixed;
+
+}
+.alert h1{
+ 	text-align: center;
+}
+.alert p{
+	float: left;
+	padding:0px 0px 5px 5px; 
+}
+
+header nav a{color: white;
+			text-decoration: none;						
+			background-color: black;
+			border:1px solid black;
+			width: 330px;
+			text-align :center;
+			margin:0px 1px 0px 1px;
+}
+header{background-color: red;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;		
+}
+nav{background-color: red;
+	display: flex;
+	flex-direction: row;
+}
+section{
+	background-color: ;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+}
+
+.card{
+	display:flex;
+	flex-direction: column;
+	border:1px solid blue;
+	border-radius: 5px;
+	margin: 40px;
+	height: 169px;
+
+}
+.card .title{
+	display: flex;
+	background-color: blue;
+	margin-top: -170px; 
+	font-size: 18px;
+	font-weight: bold;
+}
+.card .icon{
+	display: flex;
+	margin-top:-22px;
+	margin-left:120px;
+	
+	
+}
+.card .price{
+	display: flex;
+	flex-direction: column;
+	text-align:center;
+	border:1px solid blue;
+	background-color: white;
+	font-weight: bold; 
+
+}
